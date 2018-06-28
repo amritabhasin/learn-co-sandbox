@@ -1,4 +1,4 @@
 class App<Sinatra::Base 
-  
-get '/'
+  get '/'
+end
 end
